@@ -13,7 +13,7 @@
   },
   "main": "./bin/index.js",
   "scripts": {
-    "start": "node src/server.js"
+    "start": "node src/server.js",
     "test":"node test "
   },
   "repository": {
